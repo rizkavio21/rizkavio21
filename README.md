@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rizkavio21
 - 👀 I’m interested in Engineer especialy in Quality
-- 🌱 I’m currently learning all about quality
-- 💞️ I’m looking to collaborate on Quality Mindset 
+- 🌱 I’m currently learning all about quality engineer
 - 📫 You can reach me by email rizkavio21@gmail.com
 - Thankyou 🖐🏻
 
